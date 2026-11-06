@@ -1,0 +1,2 @@
+# Earning
+Swift settlement skill
